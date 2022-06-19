@@ -1,0 +1,25 @@
+{
+  "name": "tvapp",
+  "version": "1.0.0",
+  "description": "A TV App made in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderMBP/TVApp.git"
+  },
+  "keywords": [
+    "TV",
+    "TV",
+    "App",
+    "JavaScript"
+  ],
+  "author": "AlexanderMBP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderMBP/TVApp/issues"
+  },
+  "homepage": "https://github.com/AlexanderMBP/TVApp#readme"
+}
